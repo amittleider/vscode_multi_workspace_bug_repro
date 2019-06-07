@@ -4,7 +4,11 @@
 			"path": "level_1_project"
         },
         {
+			"path": "level_2_project"
+        },
+        {
 			"path": "upper_level_project"
         },
-    ]
+    ],
+    "settings": {}
 }
