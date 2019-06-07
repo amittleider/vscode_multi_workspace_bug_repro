@@ -1,0 +1,6 @@
+.vscode/
+**/.noseids/
+*.noseids/
+upper_level_project/.noseids
+*.egg-info
+**/*__pycache__/
